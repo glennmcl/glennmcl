@@ -1,3 +1,6 @@
+![Welcome Banner](./github-welcome.png)
+
+
 ## Hi there 👋
 
 I am a programmer in the industrial and manufacturing space. The main languages I write in are:
